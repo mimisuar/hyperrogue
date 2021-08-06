@@ -1,1 +1,10 @@
 .deps/
+hyper.exe
+hyper.res
+hyperrogue.log
+langen.exe 
+language-data.cpp
+makeh.exe 
+mymake.exe
+mymake_files/*
+autohdr.h
